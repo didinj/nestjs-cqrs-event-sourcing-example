@@ -1,6 +1,6 @@
 Using CQRS and Event Sourcing in NestJS
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/using-cqrs-and-event-sourcing-in-nestjs-build-scalable-event-driven-applications).
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
